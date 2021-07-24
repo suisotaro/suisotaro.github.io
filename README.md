@@ -1,4 +1,2 @@
-# suisotaro.f5.si
+# suisotaro.github.io
 suisotaroのgithubサイトです
-
-suisotaro.github.io
